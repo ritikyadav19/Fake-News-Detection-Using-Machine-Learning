@@ -47,7 +47,4 @@ This project uses the **Fake and Real News Dataset** from Kaggle and applies tex
 ---
 
 ## 👨‍💻 Author
-**Ritik Yadav**  
-B.Tech in Artificial Intelligence  
-Gurugram University  
-🔗 [LinkedIn Profile or Portfolio Link] *(optional)*
+**Ritik Yadav** 
