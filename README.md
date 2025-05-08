@@ -1,5 +1,5 @@
 
-# 📰 Fake News Detection using Machine Learning
+# Fake News Detection using Machine Learning
 
 A machine learning project to detect fake news articles using natural language processing (NLP) and classification algorithms.
 
@@ -7,7 +7,7 @@ This project uses the **Fake and Real News Dataset** from Kaggle and applies tex
 
 ---
 
-## 🔍 Features
+## Features
 - Text preprocessing (cleaning, tokenization, stopword removal)
 - Feature extraction using **TF-IDF**
 - Classification using **Logistic Regression**
@@ -17,34 +17,34 @@ This project uses the **Fake and Real News Dataset** from Kaggle and applies tex
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 ```
-📁 data/            → Dataset files (Fake.csv, True.csv)
-📁 src/             → Source code for preprocessing and model
-📊 outputs/         → Plots and evaluation results
-📄 fake_news_detection.py → Main script for training & testing
+ data/            → Dataset files (Fake.csv, True.csv)
+ src/             → Source code for preprocessing and model
+ outputs/         → Plots and evaluation results
+ fake_news_detection.py → Main script for training & testing
 ```
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 - Accuracy: ~95%
 - High precision and recall on balanced test set
 - Robust against overfitting on cleaned text data
 
 ---
 
-## 📁 Dataset
+##  Dataset
 [Kaggle - Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
 ---
 
-## 🧠 Future Improvements
+##  Future Improvements
 - Add deep learning models (LSTM, BERT)
 - Use explainability tools like **SHAP**
 - Deploy model via **Flask** or **Streamlit**
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Ritik Yadav** 
